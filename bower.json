@@ -1,0 +1,17 @@
+{
+    "name": "siamreap-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Danh Hong"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/siamreap-bower.git"
+    },
+    "description": "Siamreap font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
